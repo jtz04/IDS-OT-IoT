@@ -22,7 +22,7 @@ e base para TCC.
 ## Time
 - Leonardo — ambiente de simulação e protocolos industriais
 - João Pedro — desenvolvimento, segurança e ML
-- [Nome do colega] — desenvolvimento, segurança e ML
+- Jafar — desenvolvimento, segurança e ML
 
 ## Status atual
 [Atualiza toda semana com o que está pronto]
