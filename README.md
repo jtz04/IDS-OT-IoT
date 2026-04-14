@@ -20,10 +20,10 @@ e base para TCC.
 [Vai ser preenchido conforme o projeto avança]
 
 ## Time
-- Leonardo — ambiente de simulação e protocolos industriais
+- Leonardo — ambiente de simulação
 - João Pedro — desenvolvimento, segurança e ML
 - Jafar — desenvolvimento, segurança e ML
 
 ## Status atual
-[Atualiza toda semana com o que está pronto]
+Em desenvolvimento
 ```
